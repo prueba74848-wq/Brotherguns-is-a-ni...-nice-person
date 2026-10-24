@@ -1,0 +1,7 @@
+{
+  "name": "Copy Sticker ID",
+  "description": "Adds a Copy sticker ID option to the long-press menu of messages that contain a sticker.",
+  "authors": [{ "name": "You" }],
+  "main": "index.js",
+  "hash": "c393fa2c135fda2aa846c6f9d99c4feba24e0559f94b9f57a4dcf4cdb62aab42"
+}
